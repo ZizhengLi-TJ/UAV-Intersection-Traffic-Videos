@@ -17,6 +17,10 @@ The data can be used for:
 - Traffic flow analysis
 - Vehicle trajectory modeling
 - Development of AI models for traffic management
+  
+## Video Download Link
+The UAV intersection traffic videos are too large to store directly on GitHub. Therefore, they are available for download via Baidu Netdisk. You can download the videos from our [Baidu Netdisk link]([https://pan.baidu.com/s/your-link](https://pan.baidu.com/s/1mpZXMayOHaed8qKK5aqSZw?pwd=yz3v))(Extraction code: yz3v) for access to the full dataset. 
+ 
 
 ## Contact
 
